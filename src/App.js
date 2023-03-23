@@ -8,7 +8,6 @@ function App() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-function App() {
   return (
     <div className="container">
       <div className="container-login">
